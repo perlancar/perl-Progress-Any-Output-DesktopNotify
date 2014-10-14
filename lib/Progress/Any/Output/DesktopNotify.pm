@@ -92,7 +92,7 @@ An example program:
 This output sends progress updates to Desktop::Notify. Each task will get its
 own notification object.
 
-Sample output (on Linux with XFCE):
+Screenshots (on Linux with XFCE):
 
 =begin HTML
 
