@@ -128,9 +128,6 @@ C<Progress::Any>'s C<fill_template()> routine.
 =head1 ENVIRONMENT
 
 
-=head1 TODO
-
-
 =head1 SEE ALSO
 
 L<Progress::Any>
